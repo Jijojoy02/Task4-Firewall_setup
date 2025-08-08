@@ -1,7 +1,7 @@
 # 🔥 Firewall Configuration Task 
 
 ## Overview
-Configured host-based firewalls on both Linux to block Telnet (port 23) and allow secure access via SSH (port 22). Tested firewall rules and removed them to restore system state.
+Configured host-based firewalls on Linux to block Telnet (port 23) and allow secure access via SSH (port 22). Tested firewall rules and removed them to restore system state.
 
 ## Platform Used
 - [ ] Linux (UFW)
